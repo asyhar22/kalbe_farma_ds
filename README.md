@@ -1,15 +1,12 @@
 # Virtual Internship Data Science Kalbe Nutritionals
 
-Repository ini memuat hasil final project program Virtual Internship Data Science Kalbe Nutritionals.
+This repository contains the results of the final project of the Kalbe Nutritionals Virtual Data Science Internship Program.
 
-Program Virtual Internship Data Science Kalbe Nutritionals merupakan kerja sama antara Rakamin dengan Kalbe Nutritionals.
-Program ini berlangsung selama 4 minggu, di mana setiap minggu peserta harus membaca materi, menoton video, serta mengerjakan tugas mingguan.
-Pada minggu ke-4 peserta juga diharuskan membuat tugas akhir (final project).
+The Kalbe Nutritionals Virtual Data Science Internship Program is a collaboration between Rakamin and Kalbe Nutritionals. The program runs for 4 weeks, during which participants must read materials, watch videos, and complete weekly tasks. In week 4, participants are also required to complete a final project.
 
-Tantangan yang harus diselesaiakn pada final project adalah:
-- Melakukan Exploratory Data Analysis (EDA) menggunakan SQL
-- Membuat dashboard menggunakan Tableau/PowerBi
-- Membuat model prediktif regresi
-- Membuat model prediktif clustering
+The challenges that must be solved in the final project are:
 
-Semoga bermanfaat.
+Conducting Exploratory Data Analysis (EDA) using SQL
+Creating a dashboard using Tableau/PowerBi
+Creating a predictive regression model
+Creating a predictive clustering model
